@@ -1,0 +1,8 @@
+{
+  "name": "adp.net",
+ "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "4.1.3"
+  }
+}
