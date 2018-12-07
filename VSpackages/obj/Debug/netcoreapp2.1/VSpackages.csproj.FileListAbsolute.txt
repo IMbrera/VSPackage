@@ -44,3 +44,5 @@ E:\stud\WorkWithVS4\VSpackages\VSPackage\VSpackages\obj\Debug\netcoreapp2.1\VSpa
 E:\stud\WorkWithVS4\VSpackages\VSPackage\VSpackages\obj\Debug\netcoreapp2.1\VSpackages.dll
 E:\stud\WorkWithVS4\VSpackages\VSPackage\VSpackages\obj\Debug\netcoreapp2.1\VSpackages.pdb
 E:\stud\WorkWithVS4\VSpackages\VSPackage\VSpackages\obj\Debug\netcoreapp2.1\VSpackages.csproj.CopyComplete
+E:\stud\WorkWithVS4\VSpackages\VSPackage\VSpackages\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\stud\WorkWithVS4\VSpackages\VSPackage\VSpackages\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddProduct.g.cshtml.cs

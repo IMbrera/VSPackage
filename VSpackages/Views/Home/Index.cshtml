@@ -5,13 +5,13 @@
 <head>
 <meta name="viewport" content="width=device-width" />
     <title>VS packages</title>
-    <link rel="stylesheet" href="~/css/bundle.min.css"/>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
     <script src="~/js/bundle.min.js"></script>
 </head>
-<body>
-    <h3>Products</h3>
+<body class="panel-body">
+    <h3 class="text-center">Products</h3>
     <p>Requst Time: @DateTime.Now.ToString("HH:mm:ss")</p>
-    <table>
+    <table class="table table-bordered table-striped">
         <thead>
             <tr>
                 <td>Name</td>
@@ -28,5 +28,8 @@
             }
         </tbody>
     </table>
+    <div class="text-center">
+        <a class="btn btn-primary" asp-action="AddProduct">AddProduct</a>
+    </div>
 </body>
 </html>
